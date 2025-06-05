@@ -1,6 +1,6 @@
-# DieCrypto 💰
+# Die Payments
 
-A robust and secure payment processing solution for cryptocurrency transactions.
+A lightweight, fast, and secure payment processing solution for cryptocurrency transactions, optimized for performance and reliability.
 
 ## Table of Contents
 - [Supported Cryptocurrencies](#supported-cryptocurrencies)
